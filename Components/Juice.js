@@ -200,7 +200,7 @@ export const juice = [
         },
         {
             id: 27,
-            image: {fanta},
+            image: {fanta },
             itemName: "Fanta",
             price:"40"        
         },
